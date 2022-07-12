@@ -2,6 +2,8 @@
 
 ## UI Challenge
 
+### [View solution here](https://github.com/VngRay/Product-Design/blob/main/Rise%20Up%20Against%20Nicotine%20UI%20Challenge/Vang_Visual_Thesis_Design_Solution.pdf)
+
 __Roles__
 - UX Designer
 - UI Designer
@@ -33,6 +35,4 @@ Inspiration and visual ideas for this campaign can be located to these artists a
 
 ---
 
-## Soltuion
-
----
+## [Solution Available Here](https://github.com/VngRay/Product-Design/blob/main/Rise%20Up%20Against%20Nicotine%20UI%20Challenge/Vang_Visual_Thesis_Design_Solution.pdf)
