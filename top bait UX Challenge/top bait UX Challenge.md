@@ -1,20 +1,3 @@
-<style>
-    /* The styling here is to make a borderless table */
-    td, th {
-   border: none!important;
-   text-align: left;
-   vertical-align: text-top;
-    }
-
-   /* The styling here is for images */
-
-   img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-   }
-</style>
-
 # top bait UX Challenge
 
 ## UX Challenge
@@ -51,7 +34,8 @@ Nearly a third of respondents use digital tools and platforms for the sport of f
 
 “I usually go to the Walmart and get my license there. It was busy because the were several people in front of me. One guy was getting a gun and I had to wait for an hour.” - Participant 2
 
-[![A chart from the survey in the discovery phase. Do you usually buy your fishing tackle or gear in the store or online?](/assets/images/sample_survey_1.png "Question 1")](https://github.com/samuelvangdesigns/Product-Design/blob/main/top%20bait%20UX%20Challenge/assets/images/sample_survey_1.png?raw=true)
+![A chart from the survey in the discovery phase. Do you usually buy your fishing tackle or gear in the store or online?](/assets/images/sample_survey_1.png)]
+
 [![A chart from the survey in the discovery phase. Do you use digital platforms to learn more about fishing?](/assets/images/sample_survey_2.png "Question 2")](https://raw.githubusercontent.com/samuelvangdesigns/Product-Design/main/top%20bait%20UX%20Challenge/assets/images/sample_survey_2.png?token=GHSAT0AAAAAABWPZUQGJ6UOVGARW5N7WW5KYWO55SA)
 
 ### Competitive Analysis
@@ -68,5 +52,5 @@ Although a neighboring state such as South Carolina may accept a Georgia fishing
 ## Concepts and Insights
 
 |__Make an accessible interface and minimal interface__|__Provide only the information users actually need before they fish__|__Users need to find their fishing stores__|
-|---|---|---|
+|:---|:---|:---|
 |By providing a design that is minimal, users can achieve their goals more effectively.|It is not reliable to be on a fishing trip and depend on a cellular device. Fishing trips can be long.|When it comes down to it fishermen still rely heavily to get their information, tackle, and bait from a physical location.
