@@ -34,9 +34,11 @@ Nearly a third of respondents use digital tools and platforms for the sport of f
 
 “I usually go to the Walmart and get my license there. It was busy because the were several people in front of me. One guy was getting a gun and I had to wait for an hour.” - Participant 2
 
-![A chart from the survey in the discovery phase. Do you usually buy your fishing tackle or gear in the store or online?](/assets/images/sample_survey_1.png)]
+<img src="https://raw.githubusercontent.com/samuelvangdesigns/Product-Design/main/top%20bait%20UX%20Challenge/assets/images/sample_survey_1.png?token=GHSAT0AAAAAABWPZUQHDCRHLN5PB4T24WTQYWO6K7A" style="padding: 3%; max-width:45%;"> 
 
-[![A chart from the survey in the discovery phase. Do you use digital platforms to learn more about fishing?](/assets/images/sample_survey_2.png "Question 2")](https://raw.githubusercontent.com/samuelvangdesigns/Product-Design/main/top%20bait%20UX%20Challenge/assets/images/sample_survey_2.png?token=GHSAT0AAAAAABWPZUQGJ6UOVGARW5N7WW5KYWO55SA)
+![A chart from the survey in the discovery phase. Do you usually buy your fishing tackle or gear in the store or online? "Question 1"](<https://raw.githubusercontent.com/samuelvangdesigns/Product-Design/main/top%20bait%20UX%20Challenge/assets/images/sample_survey_1.png?token=GHSAT0AAAAAABWPZUQHDCRHLN5PB4T24WTQYWO6K7A>)
+
+![A chart from the survey in the discovery phase. Do you use digital platforms to learn more about fishing?](<https://raw.githubusercontent.com/samuelvangdesigns/Product-Design/main/top%20bait%20UX%20Challenge/assets/images/sample_survey_2.png?token=GHSAT0AAAAAABWPZUQHY7MJSYSHDVRDWYS6YWO6M5A>)
 
 ### Competitive Analysis
 
