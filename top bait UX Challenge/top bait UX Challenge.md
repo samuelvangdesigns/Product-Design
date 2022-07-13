@@ -4,6 +4,7 @@
    border: none!important;
    text-align: left;
    vertical-align: text-top;
+    }
 
    /* The styling here is for images */
 
@@ -11,7 +12,6 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-   }
    }
 </style>
 
@@ -51,8 +51,8 @@ Nearly a third of respondents use digital tools and platforms for the sport of f
 
 “I usually go to the Walmart and get my license there. It was busy because the were several people in front of me. One guy was getting a gun and I had to wait for an hour.” - Participant 2
 
-[![A chart from the survey in the discovery phase. Do you usually buy your fishing tackle or gear in the store or online?](/assets/images/sample_survey_1.png "Question 1")]()
-[![A chart from the survey in the discovery phase. Do you use digital platforms to learn more about fishing?](/assets/images/sample_survey_2.png "Question 2")]()
+[![A chart from the survey in the discovery phase. Do you usually buy your fishing tackle or gear in the store or online?](/assets/images/sample_survey_1.png "Question 1")](https://github.com/samuelvangdesigns/Product-Design/blob/main/top%20bait%20UX%20Challenge/assets/images/sample_survey_1.png?raw=true)
+[![A chart from the survey in the discovery phase. Do you use digital platforms to learn more about fishing?](/assets/images/sample_survey_2.png "Question 2")](https://raw.githubusercontent.com/samuelvangdesigns/Product-Design/main/top%20bait%20UX%20Challenge/assets/images/sample_survey_2.png?token=GHSAT0AAAAAABWPZUQGJ6UOVGARW5N7WW5KYWO55SA)
 
 ### Competitive Analysis
 
