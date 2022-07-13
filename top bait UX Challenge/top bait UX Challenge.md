@@ -36,15 +36,10 @@ Nearly a third of respondents use digital tools and platforms for the sport of f
 
 <table>
 <tr>
-    <td><img src="assets/images/sample_survey_1.png"></td>
-    <td><img src="assets/images/sample_survey_2.png"> </td>
+    <td><img src="assets/images/sample_survey_1.png" alt="A chart from the survey in the discovery phase. Do you usually buy your fishing tackle or gear in the store or online?" height="auto" width="400"></td>
+    <td><img src="assets/images/sample_survey_2.png" alt="A chart from the survey in the discovery phase. Do you use digital platforms to learn more about fishing? 'Question 2'" height="auto" width="400"> </td>
 </tr>
 </table> 
-
-
-![A chart from the survey in the discovery phase. Do you usually buy your fishing tackle or gear in the store or online? "Question 1"](<https://raw.githubusercontent.com/samuelvangdesigns/Product-Design/main/top%20bait%20UX%20Challenge/assets/images/sample_survey_1.png?token=GHSAT0AAAAAABWPZUQHDCRHLN5PB4T24WTQYWO6K7A>)
-
-![A chart from the survey in the discovery phase. Do you use digital platforms to learn more about fishing?](<https://raw.githubusercontent.com/samuelvangdesigns/Product-Design/main/top%20bait%20UX%20Challenge/assets/images/sample_survey_2.png?token=GHSAT0AAAAAABWPZUQHY7MJSYSHDVRDWYS6YWO6M5A>)
 
 ### Competitive Analysis
 
@@ -52,8 +47,12 @@ Through my findings the main issue is that the applications do not have clear av
 
 Although a neighboring state such as South Carolina may accept a Georgia fishing license, the apps used between both states vary differently. Apps also point towards online sites instead of being native to the application itself.
 
-[![A screen showing that the Fishing License app for Florida. It is showing an HTML site inside of the application.](/assets/images/IMG_0585.png "Florida Freshwater Buy Now")]()
-[![A screen showing that the Fishing License app for Georgia. It is showing an HTML site inside of the application.](/assets/images/IMG_0599.png "Georgia HTML site inside a phone screen")]()
+<table>
+<tr>
+    <td><img src="assets/images/IMG_0585.png" alt="A screen showing that the Fishing License app for Georgia. It is showing an HTML site inside of the application." height="400" width="auto"></td>
+    <td><img src="assets/images/IMG_0599.png" alt="A screen showing that the Fishing License app for Florida. It is showing an HTML site inside of the application." height="400" width="auto"> </td>
+</tr>
+</table> 
 
 ---
 
