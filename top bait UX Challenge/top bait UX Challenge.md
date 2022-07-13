@@ -35,6 +35,7 @@ Nearly a third of respondents use digital tools and platforms for the sport of f
 “I usually go to the Walmart and get my license there. It was busy because the were several people in front of me. One guy was getting a gun and I had to wait for an hour.” - Participant 2
 
 <img src="assets/images/sample_survey_1.png" style="padding: 3%; max-width:45%;"> 
+<img src="assets/images/sample_survey_2.png" style="padding: 3%; max-width:45%;"> 
 
 ![A chart from the survey in the discovery phase. Do you usually buy your fishing tackle or gear in the store or online? "Question 1"](<https://raw.githubusercontent.com/samuelvangdesigns/Product-Design/main/top%20bait%20UX%20Challenge/assets/images/sample_survey_1.png?token=GHSAT0AAAAAABWPZUQHDCRHLN5PB4T24WTQYWO6K7A>)
 
