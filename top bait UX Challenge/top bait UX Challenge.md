@@ -69,7 +69,7 @@ Although a neighboring state such as South Carolina may accept a Georgia fishing
 
 ## Sketches and Ideation
 
-Affinity Diagram, Early Sketch, and Crazy-8 Sketches
+<i>Affinity Diagram, Early Sketch, and Crazy-8 Sketches</i>
 
 <table>
 <tr>
