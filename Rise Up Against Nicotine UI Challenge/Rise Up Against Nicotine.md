@@ -55,13 +55,9 @@ addiction and e-cigarettes, both the youth and adults should be informed to the 
 
 [^5]:Bach, Laura. “Electronic Cigarettes and Youth.” Campaign for Tobacco-Free Kids, pp. 1–6. https://www.tobaccofreekids.org/assets/factsheets/0382.pdf
 
-Inspiration and visual ideas for this campaign can be located to these artists and groups. The first Addressing Youth and Nicotine Addiction Center for
-Learning & Innovation’s site and campaign Still Blowing Smoke[^6](#sup6), second Sticky Fingers E-Juice Rebrand[^7] by Chaptr Studio and Nelson Nokela, and Liquid
-Nicotine: The danger to children[^8] by Terri Bleeker. These designs will set in motion the general aesthetic of the application, web-design, and campaign for
-Rise Up. The seamless grid of Still Blowing Smoke connects the various studies and testimonies in order to drive a holistic experience on the desktop browser,
-Sticky Fingers Re-branding sets a design style for the mobile interactive ad and Terri Bleeker’s use of an info-graphic poster simplifies the mass amount of information into recognizable symbols.
+Inspiration and visual ideas for this campaign can be located to these artists and groups. The first Addressing Youth and Nicotine Addiction Center for Learning & Innovation’s site and campaign Still Blowing Smoke[^6], second Sticky Fingers E-Juice Rebrand[^7] by Chaptr Studio and Nelson Nokela, and Liquid Nicotine: The danger to children[^8] by Terri Bleeker. These designs will set in motion the general aesthetic of the application, web-design, and campaign for Rise Up. The seamless grid of Still Blowing Smoke connects the various studies and testimonies in order to drive a holistic experience on the desktop browser,Sticky Fingers Re-branding sets a design style for the mobile interactive ad and Terri Bleeker’s use of an info-graphic poster simplifies the mass amount of information into recognizable symbols.
 
-<a id="sup-6">[^6]</a> Population Health Division San Francisco Department of Public Health. Still Blowing Smoke August 27, 2015. Behance. https://www.behance.net/gallery/29048105/Addressing-Youth-and-Nicotine-Addiction?tracking_source=search%7Cnicotine and https://stillblowingsmoke.org/
+[^6]:Population Health Division San Francisco Department of Public Health. Still Blowing Smoke August 27, 2015. Behance. https://www.behance.net/gallery/29048105/Addressing-Youth-and-Nicotine-Addiction?tracking_source=search%7Cnicotine and https://stillblowingsmoke.org/
 
 [^7]:Nokela, Nelson and Chaptr Studio. Sticky Fingers E-Juice Rebrand August 19, 2019. Product Design. Behance. https://www.behance.net/gallery/84069821/Sticky-Fingers-E-Juice-Rebrand?tracking_source=search-all%7Cvape
 
