@@ -63,49 +63,49 @@ Inspiration and visual ideas for this campaign can be located to these artists a
 
 ## Sketches and Ideation
 
-<i>Social media interactive advertisement sketch.</i>
+<i>Social media interactive advertisement sketch.</i><br>
 <img src="assets/images/IMG_0437.jpg" alt="Loading advertisement that gives an interactive quiz." height="400" width="auto">
 
-<i>Social media interactive advertisement sketch.</i>
+<i>Social media interactive advertisement sketch.</i><br>
 <img src="assets/images/IMG_0438.jpg" alt="Finalized user journey where a Call to Action is shown." height="400" width="auto">
 
-<i>Additional notes and user interface sketches.</i>
+<i>Additional notes and user interface sketches.</i><br>
 <img src="assets/images/IMG_0440.jpg" alt="A few sketches regarding the user interface of the application." height="400" width="auto">
 
-<i>Feedback loop user journey.</i>
+<i>Feedback loop user journey.</i><br>
 <img src="assets/images/IMG_0441.jpg" alt="The feedback loop of the user journey is to see the advertisements, go to the website, download the app, and share their expereince." height="400" width="auto">
 
-<i>Preliminary sketches of the screens</i>
+<i>Preliminary sketches of the screens</i><br>
 <img src="assets/images/IMG_0443.jpg" alt="A few screens detailing the screens starting from the splash screen to the core feature of the application." height="400" width="auto">
 
 ---
 
-<i>rise up logo</i>
+<i>rise up logo</i><br>
 <img src="assets/images/Rise Up Logo.png" alt="The colorful 'rise up' logo." height="400" width="auto">
 
-<i>Twitter Post Mockup</i>
+<i>Twitter Post Mockup</i><br>
 <img src="assets/images/Twitter Post Mockup.jpg" alt="A twitter post showcasing the new website." height="400" width="auto">
 
-<i>Website Landing Page</i>
+<i>Website Landing Page</i><br>
 <img src="assets/images/Website Mockup-01.png" alt="A mockup for the landing page of the website." height="400" width="auto">
 
-<i>Facebook Page</i>
+<i>Facebook Page</i><br>
 <img src="assets/images/Facebook Page Mockup (2019) 2.jpg" alt="A mockup for the facebook page." height="400" width="auto">
 
 ---
 
 ### [Instagram Interactive Advertisement available here](https://xd.adobe.com/view/56a1ebdb-be29-41d4-4a30-a556d0b316b7-2090/)
 
-<i>Screen 1</i>
+<i>Screen 1</i><br>
 <img src="assets/images/Screen 1.png" alt="Screen 1 of the advertisement." height="400" width="auto">
 
-<i>Screen 2</i>
+<i>Screen 2</i><br>
 <img src="assets/images/Screen 2.png" alt="Screen 2 of the advertisement." height="400" width="auto">
 
-<i>Screen 3</i>
+<i>Screen 3</i><br>
 <img src="assets/images/Screen 3.png" alt="Screen 3 of the advertisement." height="400" width="auto">
 
-<i>Screen 4</i>
+<i>Screen 4</i><br>
 <img src="assets/images/Screen 4.png" alt="Screen 4 of the advertisement." height="400" width="auto">
 
 ---
