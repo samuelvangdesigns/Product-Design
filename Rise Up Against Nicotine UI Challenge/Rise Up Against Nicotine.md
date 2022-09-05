@@ -56,7 +56,7 @@ addiction and e-cigarettes, both the youth and adults should be informed to the 
 [^5]:Bach, Laura. “Electronic Cigarettes and Youth.” Campaign for Tobacco-Free Kids, pp. 1–6. https://www.tobaccofreekids.org/assets/factsheets/0382.pdf
 
 Inspiration and visual ideas for this campaign can be located to these artists and groups. The first Addressing Youth and Nicotine Addiction Center for
-Learning & Innovation’s site and campaign Still Blowing Smoke[^6], second Sticky Fingers E-Juice Rebrand[^7] by Chaptr Studio and Nelson Nokela, and Liquid
+Learning & Innovation’s site and campaign Still Blowing Smoke[<sup>6](#sup6), second Sticky Fingers E-Juice Rebrand[^7] by Chaptr Studio and Nelson Nokela, and Liquid
 Nicotine: The danger to children[^8] by Terri Bleeker. These designs will set in motion the general aesthetic of the application, web-design, and campaign for
 Rise Up. The seamless grid of Still Blowing Smoke connects the various studies and testimonies in order to drive a holistic experience on the desktop browser,
 Sticky Fingers Re-branding sets a design style for the mobile interactive ad and Terri Bleeker’s use of an info-graphic poster simplifies the mass amount of information into recognizable symbols.
